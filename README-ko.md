@@ -193,7 +193,7 @@ Karpor는 아직 초기 단계에 있으며, 구현해야 할 기능이 많습�
 
 ## ☎️ 연락처
 
-질문이 있으시면 아래 방법으로 언제든지 연락주세요:
+질문이 있으시면 아래 방법으로 언제든지 연락 주세요:
 
 - **Slack 채널:**
   - [#kusion](https://cloud-native.slack.com/archives/C07U0395UG0) - Karpor 및 KusionStack에 대한 기술적 토론
