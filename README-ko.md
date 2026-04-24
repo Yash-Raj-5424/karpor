@@ -46,7 +46,7 @@ Karpor는 쿠버네티스를 위한 인텔리전스입니다. 쿠버네티스에
 
 우리는 **작지만 훌륭하고, 벤더 중립적이며, 개발자 친화적인, 커뮤니티 중심의** 오픈소스 프로젝트가 되기를 희망합니다!
 
-**현재 상태**: [v0.7.0](https://github.com/KusionStack/karpor/issues/723) 을 반복 개발 중입니다. [토론](https://github.com/KusionStack/karpor/discussions/737)에 참여해 주세요.
+**현재 상태**: [v0.7.0](https://github.com/KusionStack/karpor/issues/723)을 반복 개발 중입니다. [토론](https://github.com/KusionStack/karpor/discussions/737)에 참여해 주세요.
 
 https://github.com/user-attachments/assets/44ecb3b6-e76b-4003-9546-25c6b5f8b949
 
